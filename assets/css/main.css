@@ -3305,7 +3305,8 @@
 /* Banner */
 
 	#banner {
-		background-color: #3498db;
+		background-image: 'images/pic09.jpg';
+		background-color: green;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
